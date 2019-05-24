@@ -1,0 +1,19 @@
+---
+title: "Codebook"
+author: "Yatin Shrestha"
+date: "May 24, 2019"
+output: html_document
+---
+##Dataset description
+
+##Identifiers
+"activity": The type of activity
+"subject": The subject ID
+
+##Activity column has 6 types as listed below.
+WALKING
+WALKING_UPSTAIRS
+WALKING_DOWNSTAIRS
+SITTING
+STANDING
+LAYING
